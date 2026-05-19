@@ -42,7 +42,7 @@ public class aritmetics {
 
         double resultado = 3+4 *(7-5)/2.0;
 
-
+        System.out.println(resultado);
 
 
     }
